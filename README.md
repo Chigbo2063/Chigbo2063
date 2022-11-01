@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Chigbo2063
-- 👀 I’m interested in coding&programming 
-- 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on HTML
+- 👋 Hi, I’m chybke
+- 👀 I’m a frontend web developer
 - 📫 How to reach me chigbochibuikem20@gmail.com
 
 <!---
